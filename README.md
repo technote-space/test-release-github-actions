@@ -14,7 +14,7 @@ Test repository of [Release GitHub Actions](https://github.com/technote-space/re
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Test
-.
+..
 
 ## Author
 [GitHub (Technote)](https://github.com/technote-space)  
