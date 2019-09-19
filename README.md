@@ -8,6 +8,7 @@ Test repository of [Release GitHub Actions](https://github.com/technote-space/re
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+- [Test](#test)
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
