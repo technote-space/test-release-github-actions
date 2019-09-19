@@ -1,0 +1,11 @@
+# https://help.github.com/ja/articles/metadata-syntax-for-github-actions
+name: Test Release GitHub Actions
+description: Test repository of Release GitHub Actions
+author: technote-space
+branding:
+  # https://feathericons.com/
+  icon: 'package'
+  color: 'orange'
+runs:
+  using: node12
+  main: lib/main.js
