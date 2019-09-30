@@ -9,6 +9,7 @@ Test repository of [Release GitHub Actions](https://github.com/technote-space/re
 **Table of Contents**
 
 - [Test](#test)
+- [Test TOC](#test-toc)
 - [Author](#author)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
