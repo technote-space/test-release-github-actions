@@ -1,5 +1,5 @@
 {
-  "name": "@technote/test-release-github-actions",
+  "name": "@technote-space/test-release-github-actions",
   "version": "0.0.1",
   "description": "Template for GitHub actions.",
   "author": "Technote <technote.space@gmail.com> (https://technote.space)",
@@ -34,7 +34,8 @@
   "scripts": {
     "build": "tsc",
     "test": "yarn lint",
-    "lint": "eslint src/**/**/*.ts",
+    "lint": "eslint 'src/**/*.ts' --cache",
+    "lint:fix": "eslint --fix 'src/**/*.ts'",
     "update": "ncu -u && yarn install && yarn upgrade && yarn audit"
   }
 }

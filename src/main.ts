@@ -1,10 +1,9 @@
 import signale from 'signale';
 
-/**
- * run
- */
-async function run(): Promise<void> {
+const run = async(): Promise<void> => {
 	signale.info('Hello world!');
-}
+};
 
-run();
+run().catch(error => {
+	console.log(error);
+});
